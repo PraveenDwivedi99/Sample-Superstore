@@ -1,2 +1,2 @@
 # Sample-Superstore
-Exploratory data analysis on US sample superstore data
+This is an Exploratory data analysis project on US sample superstore data by using Tableau.
